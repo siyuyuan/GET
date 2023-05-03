@@ -1,6 +1,6 @@
 # GET
 
-Code for our EMNLP 2022 paper: Generative Entity Typing with Curriculum Learning].
+Code for our EMNLP 2022 paper: Generative Entity Typing with Curriculum Learning.
 
 ## Dependencies
 
